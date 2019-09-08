@@ -1,6 +1,6 @@
 {
   "name": "aliyun-oss-upload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "用于阿里云OSS采用服务端签名后WEB直传",
   "keywords": [
     "oss-upload",
